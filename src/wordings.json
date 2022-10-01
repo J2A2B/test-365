@@ -1,0 +1,23 @@
+{
+  "messages": {
+    "fr": {
+      "views": {
+        "home": {
+          "alt_logo": "Logo 365 Talents",
+          "title": "Test technique",
+          "description": "Renseignez le SIREN de l'entreprise de votre choix pour découvrir toutes ses informations !",
+          "siren_example": "Exemple de SIREN : 812215804"
+        },
+        "company": {
+          "capital": "\uD83D\uDCB0 Capital",
+          "num": "N°",
+          "ape_code": "Code APE",
+          "alt_logo": "Logo 365 vertical"
+        }
+      },
+      "general": {
+        "back_link": "Retour"
+      }
+    }
+  }
+}
